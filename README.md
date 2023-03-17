@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrantikPaul
-- 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... Flutter FrameWork
-- 💞️ I’m looking to collaborate on ... Android App Development 
+- 👀 I’m interested in ... Programming And Robotics
+- 🌱 I’m currently learning ... Python
+- 💞️ I’m looking to collaborate on ... Any Software Development 
 - 📫 How to reach me ... https://www.facebook.com/prantikprappoo
 
 <!---
